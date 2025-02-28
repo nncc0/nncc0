@@ -62,7 +62,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nncc0/nncc0/output/snake.svg" alt="Snake animation" />
-
-###
